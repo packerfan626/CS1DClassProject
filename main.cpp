@@ -7,5 +7,3 @@ int main()
 {
 	cout << "Test";
 }
-
-//my comment
